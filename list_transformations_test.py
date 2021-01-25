@@ -37,10 +37,10 @@ def choose_type():
 
 def choose_number_test():
     print("\nWhich test would you like to run?")
-    print("\t 1) square")
-    print("\t 2) reverse")
-    print("\t 3) sort")
-    print("\t 4) All Possible Tests")
+    print("\t 1) square()")
+    print("\t 2) reverse()")
+    print("\t 3) sort()")
+    print("\t 4) All Tests")
     test_input = input("Choose a test: ")
 
     while test_input not in type_dict.keys():
@@ -51,10 +51,10 @@ def choose_number_test():
 
 def choose_string_test():
     print("\nWhich test would you like to run?")
-    print("\t 1) capitalize")
-    print("\t 2) reverse")
-    print("\t 3) sort")
-    print("\t 4) All Possible Tests")
+    print("\t 1) capitalize()")
+    print("\t 2) reverse()")
+    print("\t 3) sort()")
+    print("\t 4) All Tests")
 
     test_input = input("Choose a test: ")
 
