@@ -1,28 +1,24 @@
-# Unit 0 Lab 1
-# Author: Your Name
+# Unit 1 
+# Lab 0: lists
+# list_transformations.py
+# By: YOUR NAME GOES HERE
+# =============================================================================
 
 
-def square_list(a_list):
-    # YOUR CODE GOES HERE   
-
-    raise NotImplemented("This function isn't done!")
-
-def capitalize_list(a_list):
-    # YOUR CODE GOES HERE   
-
-    raise NotImplemented("This function isn't done!")
-
-def reverse_list(a_list):
-    # YOUR CODE GOES HERE   
-
-    raise NotImplemented("This function isn't done!")
-
-def sort_list(a_list):
-    # YOUR CODE GOES HERE   
-
-    raise NotImplemented("This function isn't done!")
+### 💻 square_list() GOES HERE 💻 ###
 
 
 
 
+### 💻 capitalize_list() GOES HERE 💻 ###
+
+
+
+
+### 💻 pluralize_list() GOES HERE 💻 ###
+
+
+
+
+### 💻 reverse_list() GOES HERE 💻 ###
 
