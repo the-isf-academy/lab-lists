@@ -12,15 +12,15 @@
 
 
 
-### 💻 TESTS capitalize_list() GOES HERE 💻 ###
+### 💻 TESTS FOR capitalize_list() GOES HERE 💻 ###
 
 
 
 
-### 💻 TESTS pluralize_list() GOES HERE 💻 ###
+### 💻 TESTS FOR pluralize_list() GOES HERE 💻 ###
 
 
 
 
-### 💻 TESTS reverse_list() GOES HERE 💻 ###
+### 💻 TESTS FOR reverse_list() GOES HERE 💻 ###
 
